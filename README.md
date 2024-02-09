@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikael Alvian Rizky</h1>
-<h3 align="center">I am a self-taught Full Stack Web Developer, currently diving deeper into Machine Learning.</h3>
+<h3 align="center">I am a self-taught Software Engineer, currently diving deeper into Machine Learning.</h3>
 
 - 👨‍💻 All of my projects are available at [https://portofolio-mikael.vercel.app/](https://portofolio-mikael.vercel.app/)
 
