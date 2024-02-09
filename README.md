@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mikael Alvian Rizky</h1>
-<h3 align="center">I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning.</h3>
+<h3 align="center">I am a self-taught Full Stack Web Developer, currently diving deeper into Machine Learning.</h3>
 
 - 👨‍💻 All of my projects are available at [https://portofolio-mikael.vercel.app/](https://portofolio-mikael.vercel.app/)
 
-- 📫 How to reach me **mikael.alvian.rizky@gmail.com**
+- 📫 You can reach me by email at **mikael.alvian.rizky@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect with me!😁</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mikael-alvian-rizky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikael-alvian-rizky" height="30" width="40" /></a>
 <a href="https://instagram.com/mykael_alvian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mykael_alvian" height="30" width="40" /></a>
